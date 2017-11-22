@@ -1,1 +1,2 @@
-print("Esto en una prueba")
+print("MENU DE CALCULO")
+n = input("Introduce un número: ")
