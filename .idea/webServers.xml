@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="080f464a-8df9-4b77-92c7-8976da3072e5" name="DJANGO SERVER" url="http://18.216.134.153">
+        <fileTransfer host="18.216.134.153" port="22" privateKey="C:\Users\chust\.ssh\Django.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
